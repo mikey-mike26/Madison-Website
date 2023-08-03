@@ -1,0 +1,152 @@
+html{
+    background-image: linear-gradient(#ba181b,#e5383b);
+}
+
+#header{
+    color:white;
+    background-color:#a4161a;
+    text-align: center;
+    font-size: 55px;
+    margin-left:400px;
+    margin-right:400px;
+    border: 3px solid black;
+   
+    
+    
+}
+
+
+.social-images{
+    width:50px;
+    height:50px;
+}
+
+#socials {
+    padding-right:30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background:#a4161a;
+    display:flex;
+    justify-content:end;
+    gap: 30px;
+}
+
+.title-font{
+    font-family: 'Oswald', sans-serif;
+    color:white;
+}
+
+#connect {
+    margin:0px;
+    padding:0px;
+    color: white;
+}
+
+
+
+
+#welcome-message {
+    width:auto;
+    height:350px;
+    text-align:center;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    background-image: url("https://admissions.wisc.edu/wp-content/uploads/sites/462/2020/03/campus-aerial-1600x500-1.jpg");
+    padding-left:100px;
+    padding-right:100px;
+    border-bottom: 5px solid white;
+  
+    
+}
+.default-font {
+    font-family: 'M PLUS 1', sans-serif;
+    
+}
+
+#madison-overview {
+    color:white;
+    border: 3px solid black;
+    background-color: #660708;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    
+    
+}
+
+
+.flex-row {
+    margin-top: 125px;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+
+.flex-column {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-size {
+    border: 3px solid white;
+    border-radius: 50%;
+    height:100px;
+    width:100px;
+}
+
+.description {
+    border: 3px solid black;
+    background-color:#a4161a;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-left:100px;
+    margin-right:100px;
+}
+
+#union {
+    margin-right:125px;
+}
+
+#campus {
+    margin-right:70px;
+}
+
+#author-title{
+    margin-bottom:0px;
+    margin-left:425px;
+    margin-right:425px;
+    background-color:#d3d3d3;
+    border:3px solid #660708;
+    border-bottom:3px solid white;
+    margin-top: 80px;
+    text-align:center;
+    
+
+}
+.card {
+    margin-left:425px;
+    margin-right:425px;
+    border:3px solid black;
+    background:#a4161a;
+display:flex;
+flex-direction: row;
+justify-content: center;
+
+}
+
+#me {
+    border-radius: 50%;
+    height:100px;
+    width:100px;
+}
+#about {
+    text-align:center;
+    color:white;
+    font-size: 18px;
+}
